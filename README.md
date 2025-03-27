@@ -24,7 +24,7 @@ Whether you're looking to refine your existing skills or build confidence in you
 
 ## Getting Started
 
-1. Click the link to open the notebook in [Google Colab](https://colab.research.google.com/).
+1. Click the link to open the notebook in [Google Colab](https://colab.research.google.com/github/MaureenOShea/WiDS25_data-sleuthing/blob/main/wids_usaid_africa_analysis.ipynb).
 2. Modify the code, explore the data, and draw your own conclusions.
 
 
